@@ -1,2 +1,4 @@
 *.c linguist-language=Javascript
 *.h linguist-language=Javascript
+*.m linguist-language=Javascript
+*.mm linguist-language=Javascript
