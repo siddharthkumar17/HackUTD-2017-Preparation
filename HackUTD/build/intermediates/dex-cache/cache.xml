@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siddharth Kumar\.android\build-cache\8da5c0afa8efdc1c5460ce758de7dc2ed7aade25\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fe80be52031623c957e0fa9b8c30912575372309\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siddharth Kumar\.android\build-cache\ec5f6089a79729fd0a2e6bf24df0ff8e1adcbd19\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_443475699f54e1ec584ea77b1874aa448ced9d0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siddharth Kumar\.android\build-cache\40f04f64e2dde4b057788c656a67b7d9a0de3079\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fdfd93229a49770c3b77163420c5109b191da567\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siddharth Kumar\.android\build-cache\da65d6de0d6755a6a29a4fe33861bc646ac3ecdc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_29b24c8b45c176577e7349d15dd540e09f42a0e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_042a8c0c38d422f60b8c008c77695eb9fb5f86ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siddharth Kumar\.android\build-cache\5b635386c4d8a95ee3e650b5cd45f1777d60e198\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_00e9e773a0dd7a24c35f875ed6d72a9fb1e0c026\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Siddharth Kumar\.android\build-cache\0f72376e1e4d0b531d7d697308f104876007564c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\pre-dexed\debug\classes_bd38676de20ac9f516f8edbc7ddcd5a7be472a18.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siddharth Kumar\.android\build-cache\5b1100ee64dcce61b03fbc54edbb2987a6c4d97b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e7251108f985786ecae34cc49bba26cc1d158b6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siddharth Kumar\.android\build-cache\d377df397e1a11a727c758003b61a014818d9727\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8527c60f19c10abc41b42d44c610a5c9fd0036c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Siddharth Kumar\.android\build-cache\36550e23b6e7ac116962665db9cf6ecb9583ef59\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\pre-dexed\debug\classes_52d14a466c560f0d1cd5469a9825593c12b7c885.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siddharth Kumar\.android\build-cache\6edb667d7934a29db7863bfbfe5630cc3478cd74\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4af2fff5454418e7ec49807a85cc1092331704a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siddharth Kumar\.android\build-cache\013d96c230f8b76bb4b1c8fdf07cbb266437050a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_93a99f870227a49a15f039ef13a138f626a3a8dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siddharth Kumar\.android\build-cache\68f0b990d898c5e90bb9a289818a473c94072c9a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_af001d54191c7da723d4dbb4d591a2895393e324\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Siddharth Kumar\.android\build-cache\608039bb2dc22b15c3b5494ec8916b7bd3d68730\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\pre-dexed\debug\classes_39a89deeef0a7bf8cdcaa7fc3d76c2c25fcd45c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_b99665049711028084c8737f4a993cc6a895f95e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b4f234a78a15cc85ea3ddf56b04222700f1fd921">
+        <dex dex="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_45291f81474908b98ae970210f59cf36492c51ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siddharth Kumar\.android\build-cache\beb3036b25cb78260ca9b25560e6025915da44f7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_62c4e495a938fbcd3d2a6a79a5cbdc337b616f13\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Siddharth Kumar\.android\build-cache\ec5f6089a79729fd0a2e6bf24df0ff8e1adcbd19\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\pre-dexed\debug\classes_443475699f54e1ec584ea77b1874aa448ced9d0c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siddharth Kumar\.android\build-cache\ff71a63412768d3884746ea76536bdc37ff5cd2f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5444dbd76e963dd9f8fbd44da488ea41f8ee1479\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Siddharth Kumar\.android\build-cache\8da5c0afa8efdc1c5460ce758de7dc2ed7aade25\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\pre-dexed\debug\classes_fe80be52031623c957e0fa9b8c30912575372309.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Siddharth Kumar\.android\build-cache\d377df397e1a11a727c758003b61a014818d9727\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\pre-dexed\debug\classes_8527c60f19c10abc41b42d44c610a5c9fd0036c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Siddharth Kumar\.android\build-cache\40f04f64e2dde4b057788c656a67b7d9a0de3079\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\pre-dexed\debug\classes_fdfd93229a49770c3b77163420c5109b191da567.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siddharth Kumar\.android\build-cache\0f72376e1e4d0b531d7d697308f104876007564c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bd38676de20ac9f516f8edbc7ddcd5a7be472a18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_b99665049711028084c8737f4a993cc6a895f95e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Siddharth Kumar\.android\build-cache\da65d6de0d6755a6a29a4fe33861bc646ac3ecdc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\pre-dexed\debug\classes_29b24c8b45c176577e7349d15dd540e09f42a0e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Siddharth Kumar\.android\build-cache\5b635386c4d8a95ee3e650b5cd45f1777d60e198\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\pre-dexed\debug\classes_00e9e773a0dd7a24c35f875ed6d72a9fb1e0c026.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Siddharth Kumar\.android\build-cache\5b1100ee64dcce61b03fbc54edbb2987a6c4d97b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\pre-dexed\debug\classes_e7251108f985786ecae34cc49bba26cc1d158b6f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siddharth Kumar\.android\build-cache\36550e23b6e7ac116962665db9cf6ecb9583ef59\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_52d14a466c560f0d1cd5469a9825593c12b7c885\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Siddharth Kumar\.android\build-cache\013d96c230f8b76bb4b1c8fdf07cbb266437050a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\pre-dexed\debug\classes_93a99f870227a49a15f039ef13a138f626a3a8dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Siddharth Kumar\.android\build-cache\6edb667d7934a29db7863bfbfe5630cc3478cd74\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\pre-dexed\debug\classes_4af2fff5454418e7ec49807a85cc1092331704a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Siddharth Kumar\.android\build-cache\68f0b990d898c5e90bb9a289818a473c94072c9a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\pre-dexed\debug\classes_af001d54191c7da723d4dbb4d591a2895393e324.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siddharth Kumar\.android\build-cache\608039bb2dc22b15c3b5494ec8916b7bd3d68730\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_39a89deeef0a7bf8cdcaa7fc3d76c2c25fcd45c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Siddharth Kumar\.android\build-cache\beb3036b25cb78260ca9b25560e6025915da44f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\pre-dexed\debug\classes_62c4e495a938fbcd3d2a6a79a5cbdc337b616f13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Siddharth Kumar\.android\build-cache\ff71a63412768d3884746ea76536bdc37ff5cd2f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\Siddharth Kumar\AndroidStudioProjects\HackUTD\app\build\intermediates\pre-dexed\debug\classes_5444dbd76e963dd9f8fbd44da488ea41f8ee1479.jar" />
+    </item>
+
+</items>
